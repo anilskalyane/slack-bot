@@ -1,0 +1,65 @@
+{
+    "type": "actions",
+    "block_id": "actionblock789",
+    "elements": [
+        {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Nominate"
+            },
+            "style": "primary",
+            "value": "nominate",
+            "action_id": "nominate_click"
+        }
+        ,
+        {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Challenges"
+            },
+            "style": "primary",
+            "value": "challenges",
+            "action_id": "challenges_click"
+        },
+        {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Review"
+            },
+            "style": "primary",
+            "value": "review",
+            "action_id": "review_click"
+        }, {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Redeem"
+            },
+            "style": "primary",
+            "value": "redeem",
+            "action_id": "redeem_click"
+        }, {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Wall of Fame"
+            },
+            "style": "primary",
+            "value": "wall_of_fame",
+            "action_id": "wall_of_fame_click"
+        }, {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Leaderboard"
+            },
+            "style": "primary",
+            "value": "leaderboard",
+            "action_id": "leaderboard_click"
+        }
+
+    ]
+}

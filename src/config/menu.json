@@ -1,0 +1,16 @@
+{
+    "type": "actions",
+    "block_id": "actionblock789",
+    "elements": [
+        {
+            "type": "button",
+            "text": {
+                "type": "plain_text",
+                "text": "Nominate"
+            },
+            "style": "primary",
+            "value": "nominate",
+            "action_id": "nominate_click"
+        }
+    ]
+}
